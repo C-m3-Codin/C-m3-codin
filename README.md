@@ -30,7 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-m3-codin&show_icons=true&locale=en" alt="c-m3-codin" /></p>
 
 </br>
-</br>
-</br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-m3-codin&" alt="c-m3-codin" /></p>
