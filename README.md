@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-m3-codin" alt="c-m3-codin" /></a> </p>
 
-- 🔭 I’m currently working on [this](this links)
+<!-- - 🔭 I’m currently working on [MERN. ](this links) -->
 
-- 👯 I’m looking to collaborate on [this](this links)
+<!-- - 👯 I’m looking to collaborate on [this](this links) -->
 
-- 🤝 I’m looking for help with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+<!-- - 🤝 I’m looking for help with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) -->
 
 - 📫 How to reach me **cyril199897@gmail.com**
 
